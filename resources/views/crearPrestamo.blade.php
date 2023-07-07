@@ -61,7 +61,7 @@
                         <input type="text" id="tasa" name="tasa"/>
                     </div>
                 
-                    <button type="submit" class="btn btn-primary">Guardar</button>
+                    <button type="submit" class="btn btn-primary">Guardar 1</button>
 
                 </form>
 
